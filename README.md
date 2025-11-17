@@ -77,8 +77,6 @@ vendedor
 
 historicoCalculo
 
-(Você pode incluir seus CREATE TABLE aqui, se quiser.)
-
 🔧 Requisitos do Ambiente
 
 Antes de instalar, verifique se possui:
