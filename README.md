@@ -88,7 +88,7 @@ Antes de instalar, verifique se possui:
 
 📥 Instalação e Execução
 1. Clonar o repositório
-git clone https://github.com/SEU_USUARIO/PrjLuminaGuide.git
+git clone https://github.com/DouglasMiqueias/LuminaGuide.git
 cd PrjLuminaGuide
 
 2. Configurar a conexão com o banco
